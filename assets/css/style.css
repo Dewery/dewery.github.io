@@ -8,6 +8,20 @@
 */
 
 /* Basic */
+	a.logo {
+		border-bottom: none;
+		opacity: 0.9;
+	}
+
+	a.logo:hover {
+		opacity: 1;
+	}
+
+	.logo {
+		width: 90px;
+		height: 90px;
+		margin:10px;
+	}
 
 	body {
 		background: #f5f5f5;
